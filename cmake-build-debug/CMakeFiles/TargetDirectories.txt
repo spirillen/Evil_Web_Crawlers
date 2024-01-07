@@ -1,0 +1,3 @@
+/var/storage/repos/github/spirillen/Evil-Web-Crawlers/cmake-build-debug/CMakeFiles/Evil_Web_Crawlers.dir
+/var/storage/repos/github/spirillen/Evil-Web-Crawlers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/var/storage/repos/github/spirillen/Evil-Web-Crawlers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
