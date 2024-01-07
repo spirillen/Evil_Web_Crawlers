@@ -1,0 +1,4 @@
+blank_issues_enabled: false
+  - name: Other issues
+    url: https://kb.mypdns.org/newIssue?project=MTX
+    about: If you have a issue or found a bug this is the place.

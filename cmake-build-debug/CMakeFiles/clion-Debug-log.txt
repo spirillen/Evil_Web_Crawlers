@@ -1,4 +1,4 @@
-/home/spirillen/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/spirillen/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /var/storage/repos/github/spirillen/Evil-Web-Crawlers -B /var/storage/repos/github/spirillen/Evil-Web-Crawlers/cmake-build-debug
+/home/spirillen/.local/share/JetBrains/Toolbox/apps/clion-nova/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/spirillen/.local/share/JetBrains/Toolbox/apps/clion-nova/bin/ninja/linux/x64/ninja -G Ninja -S /var/storage/repos/github/spirillen/Evil-Web-Crawlers -B /var/storage/repos/github/spirillen/Evil-Web-Crawlers/cmake-build-debug
 -- Configuring done (0.0s)
--- Generating done (0.2s)
+-- Generating done (0.3s)
 -- Build files have been written to: /var/storage/repos/github/spirillen/Evil-Web-Crawlers/cmake-build-debug

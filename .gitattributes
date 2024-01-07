@@ -1,0 +1,13 @@
+* text=lf eol=lf working-tree-encoding=UTF-8
+
+# Normalize special cases to LF
+; *.csv text eol=lf working-tree-encoding=UTF-8
+; *.ini text eol=lf working-tree-encoding=UTF-8
+; *.json text eol=lf working-tree-encoding=UTF-8
+; *.list text eol=lf working-tree-encoding=UTF-8
+; *.log text eol=lf working-tree-encoding=UTF-8
+; *.md text eol=lf working-tree-encoding=UTF-8
+; *.sh text eol=lf working-tree-encoding=UTF-8
+; *.txt text eol=lf working-tree-encoding=UTF-8
+; *.yml text eol=lf working-tree-encoding=UTF-8
+; *.yaml text eol=lf working-tree-encoding=UTF-8
